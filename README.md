@@ -1,7 +1,7 @@
 # SMINT
 The clustering technique to cluster non-Gaussian functional data without the prior information of the number of clusters.
 
-simulation 1.R—simulation 5.R are the the main code corresponding to the simulations in the paper, real.R is the main code for ADNI data. It uses functions defined in the files EM_estimate1.R, EM_estimate2.R, EM_estimate4.R, original function.R, first_der function.R, H_est.R, identify.R.
+simulation 1.R—simulation 5.R are the the main code corresponding to the simulations in the paper, real.R is the main code for ADNI data. The main code uses functions defined in the files EM_estimate1.R, EM_estimate2.R, EM_estimate4.R, original function.R, first_der function.R, H_est.R, identify.R.
 
 EM_estimate: the function for estimating Omega_n given H
 
